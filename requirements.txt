@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+pandas
+numpy
+matplotlib
+=======
+pandas
+numpy
+matplotlib
+>>>>>>> a480164fcd1d29150fa3140e847437ce5a033129
+jupyter
